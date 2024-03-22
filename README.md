@@ -8,6 +8,7 @@ Building the model :
 4) To help the model preform better and as our data isn't big enough I made Image Augmentation to prevent overfitting. it will gives some random transformation on a random selection on our images like (rotation , flipping, ...) so we get more divers image.
 5) I made a CNN of four convolution layers and after each layer a max pooling layer, then a flatten layer to suits it in the full connection layer, then a dense layer of 128 dim then another dense layer of 5 dim with an activation function of softmax
 6) Trained the model and it gives me an accuracy of 86%
+7) testing on a new data
 
 ToDo:
 1) Increase our data
