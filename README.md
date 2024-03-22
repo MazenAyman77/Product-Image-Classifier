@@ -1,6 +1,6 @@
 # Product-Image-Classifier
-DL Model to classify images to {Beauty, Fashion, Home, Nutrition, Stationary} products
-This was a task given for an internship purpose
+DL Model to classify images to {Beauty, Fashion, Home, Nutrition, Stationary} products.
+This was a task given for an internship purpose.
 Building the model :
 1) I had a problem with the dataset as i have been told to screenshot the products images from the app, so i have downlaoded some of the iamges online to help the model to preform better preformance.
 2) My dataset is consisting of train and test folders, inside each folder (Beauty, Fashion, Home, Nutrition, Stationary) folders, I separated them to be the training set ≃ 70% of the data And the testing set ≃ 20% of the data.
